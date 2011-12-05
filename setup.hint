@@ -1,0 +1,5 @@
+category: Xfce
+requires: libglib2.0_0 libgtk2.0_0 libxfce4util4 libxfcegui4_4 xfce4-panel
+sdesc: "Xfce smart bookmark search plugin"
+ldesc: "This Xfce panel plugin allows you to send requests directly to 
+your browser and perform a custom search."
