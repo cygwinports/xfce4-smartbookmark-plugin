@@ -1,0 +1,9 @@
+inherit xfce4
+
+NAME="xfce4-smartbookmark-plugin"
+VERSION=0.4.5
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Xfce smart bookmark search plugin"
+DESCRIPTION="This Xfce panel plugin allows you to send requests directly to
+your browser and perform a custom search."
